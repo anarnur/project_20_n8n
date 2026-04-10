@@ -89,7 +89,7 @@
     },
     {
       "parameters": {
-        "chatId": "637116034",
+        "chatId": "12345678",
         "text": "={{ $json.output }}",
         "additionalFields": {}
       },
@@ -111,7 +111,7 @@
     },
     {
       "parameters": {
-        "chatId": "637116034",
+        "chatId": "12345678",
         "text": "Ошибка в n8n!",
         "additionalFields": {}
       },
